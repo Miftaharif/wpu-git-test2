@@ -9,5 +9,8 @@
 <body>
     <h1>hello wordl!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora doloremque debitis cupiditate, iure aut recusandae mollitia libero numquam earum consequuntur facere impedit fugiat ipsum natus nostrum non et minus cum?</p>
+    <ul>
+        <li>asdasda</li>
+    </ul>
 </body>
 </html>
